@@ -1,7 +1,5 @@
 user_id = beddings81
 user_name = braxton
-user_id = beddings22
-user_name = tony
 
 user_age = 24
 user_experience = 0
