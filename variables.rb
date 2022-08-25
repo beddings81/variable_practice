@@ -10,3 +10,6 @@ amount_paid = 1200.00
 
 deposit_paid = true
 user_excited = true
+
+puts 'hello world'
+puts 'this is fun'
